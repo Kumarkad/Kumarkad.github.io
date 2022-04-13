@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	// The base url for all API calls
 	var apiBaseURL = 'http://api.themoviedb.org/3/';
-	var apiKey = '2bd06995e589a5fe561e550279bdb137';
+	var apiKey = '04c35731a5ee918f014970082a0088b1';
 
 	// URL in Authentication. Base URL of image
 	var imageBaseUrl = 'https://image.tmdb.org/t/p/';
