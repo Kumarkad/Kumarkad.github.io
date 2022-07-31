@@ -289,13 +289,10 @@ a .fa-envelope{
   .wrapper span {
     font-size: 22px;
   }
-	
-
-	
-
-	
-
-	
+  .wrapper .visit-count{
+    position: relative ;
+    left:250px;
+  }
   .wrapper .social {
     text-align: center;
   }
